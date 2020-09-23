@@ -42,3 +42,38 @@ __D__ - Oracle Primavera
 > Esta ferramenta tem a finalidade auxiliar gerente de projetos no gerenciamento integrado/ acompanhamento de projetos e não representar processos usando BPMN
 
 E - Draw io
+
+## Aula 2
+
+1 - Considerando que podemos entender uma “Atividade” como sendo uma ação que ocorre num determinado momento de um processo de negócio, assinale dentre os exemplos listados abaixo aquele que representa um exemplo de atividade.
+
+A - Acesso ao banco de dados estoque
+
+B - Análise dos perfis de consumo dos clientes
+
+C - Associação de um Pedido com um cliente
+
+__D__ - Cadastrar Pedido
+> O uso do verbo para representar a ação de cadastrar um pedido denota uma atividade usando BPMN
+
+2 - Considerando que podemos entender uma “Ligação” em BPMN serve para representar a conexão de uma sequência de ações, fluxo de mensagens, e/ou associar diferentes elementos de BPMN, assinale dentre os exemplos listados abaixo aquele que representa uma ligação.
+
+A - Finalizar Pedido
+
+__B__ - Demonstrar a conexão entre "Cadastrar um Pedido" e uma "Análise do Perfil de Consumo de um Cliente"
+> A conexão entre os elementos “Cadastrar um Pedido” (Atividade) e “Análise do Perfil de Consumo de um Cliente” (Evento) – veremos este elemento com mais detalhes na próxima aula, representa uma sequência de acontecimentos (Ligação) num processo.
+
+C - Venda Agregada
+
+D - Consulta ao Estoque
+
+3 - Considerando que podemos entender um “Subprocesso” como um grupo de elementos de BPMN que podem ser representados de maneira agrupada (colapsada) sem perda de informação e entendimento do processo principal que esta sendo modelado, assinale dentre os exemplos listados abaixo aquele que representa um subprocesso.
+
+A - Apontar o caminho para a realização de uma Venda
+
+B - Cadastrar Item de Pedido
+
+C - Categorização de Cliente
+
+__D__ - Aumento de Produtos em Estoque
+> O aumento de produtos em estoque é um sub-processo relacionado a um processo pai “Gestão de Estoque”.
