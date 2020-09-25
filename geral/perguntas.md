@@ -77,3 +77,36 @@ C - Categorização de Cliente
 
 __D__ - Aumento de Produtos em Estoque
 > O aumento de produtos em estoque é um sub-processo relacionado a um processo pai “Gestão de Estoque”.
+
+## Aula 3
+
+1 - Dentro de BPMN o Elemento “Evento” serve para indicar alguma coisa que acontece no processo entre seu início e fim, com base nesta definição assinale dentre os exemplos listados abaixo aquele melhor representa um Evento.
+
+A - Cadastrar Pedido
+
+B - Estoque atualizado
+
+__C__ - Término de Finalizar Pedido
+> Neste caso identificamos que foi criado um "Evento de Término” após a execução da atividade que sequencialmente ocorre dentro do processo (Finalizar Pedido)
+
+D - Informar Vendedor
+
+2 - Dentro de BPMN o Elemento “Desvio” serve para controlar o fluxo do processo e pode marcar o início ou o fim de um conjunto de caminhos alternativos ou paralelos, com base nesta definição assinale dentre os exemplos listados abaixo aquele melhor representa um Desvio.
+
+__A__ - Confirmar ou não um pedido
+> A opção de confirmação ou não de um pedido em um processo indica um ponto demarcado pelo elemento “Desvio”, que ao ser acessado permite a visualização de possíveis caminhos na sequência de execução do processo
+
+B - Realizar Pedido de Compra
+
+C - Compra Agregada
+
+D - Início do Pedido de Compra
+
+3 - A maioria dos especialistas em mapeamento de processos optam por representar em uma modelagem de processos os elementos “Eventos” e “Desvios” depois de identificar “Atividades, Ligações e Sub-Processos”, na sua opinião qual é principal finalidade de representarmos “Eventos” e “Desvios” neste 2º momento?
+
+__A__ - Para indicar um ótimo momento para reflexão se o processo está de fato representando fielmente a realidade mapeada como requisito
+> Exatamente, além disso a partir deste momento visualizamos que os mesmos estão de fato, repercutindo coisas que acontecem no contexto do processo e influenciam e direcionam sua execução
+
+B - Devido ao fato de BPMN orientar a fazermos desta forma
+
+C - Para que possamos já pensar nos detalhes de aspectos do modelo físico do processo
