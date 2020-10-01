@@ -110,3 +110,36 @@ __A__ - Para indicar um ótimo momento para reflexão se o processo está de fat
 B - Devido ao fato de BPMN orientar a fazermos desta forma
 
 C - Para que possamos já pensar nos detalhes de aspectos do modelo físico do processo
+
+## Aula 4
+
+### 1 - Dentro de BPMN o Elemento “Artefato” serve para representar, armazenar e consultar sistemas/informações geradas durante a execução do processo, com base nesta definição assinale dentre os exemplos listados abaixo aquele melhor representa um Artefato.
+
+__A__ - Consulta a uma lista de pedidos
+> Se considerarmos que os pedidos serão gerados e armazenados durante a execução de um processo de venda, a consulta a esta informação gerada na medida em que o processo é executado envolve a representação de “Pedidos” como um Artefato
+
+B - Análise da Categoria de Cliente
+
+C - Direcionar o caminho de uma consulta a um estoque
+
+D - Cadastrar Cliente
+
+### 2 - Dentro de BPMN o Elemento “Swimlane” serve para representar diferentes participantes num processo e melhor organizar a modelagem do processo como um todo ilustrando responsabilidades de entidades e local/organização onde o processo será executado, com base nesta definição assinale dentre os exemplos listados abaixo aquele melhor representa um Swimlane.
+
+__A__ - O Vendedor de uma Livraria tira um pedido de um Cliente no Balcão.
+> A descrição geral do processo será modelada no interior da swinlanes “Livraria” considerando as entidades “Vendedor” e “Cliente”.
+
+B - Pedido Finalizado
+
+C - Propor Vendas Agregadas
+
+D - Atualizar valor do pedido na Base “Pedidos”
+
+### 3 - Os elementos de BPMN “Artefatos e Swimlanes” dentro da modelagem de processo usando BPMN numa camada conceitual representam vários requisitos que deverão ser explorados com mais ênfase na fase do modelo lógico em nível de entendimento de interfaces, perfis e macro-processamentos do processo na medida em que o mesmo for sendo modelado. Assinale dentre as opções abaixo qual é o principal benefício da correta representação destes elementos no modelo conceitual?
+
+__A__ - Produtividade e assertividade na elaboração do modelo físico mais a frente
+> De fato, este entendimento inicial repercutirá na qualidade e eficiência da implementação do processo.
+
+B - Diminuição do tempo de validação final do processo com o dono do negócio
+
+C - Facilidade no uso de uma linguagem de programação
