@@ -2,7 +2,7 @@
 
 ## Aula 1
 
-1 - Vimos que o BPMN é a forma mais eficiente e padronizada de "representar graficamente uma sequência de ações para se atender um determinado objetivo, ou seja, um processo", assinale dentre as opções abaixo quais são os 3 principais benefícios de se utilizar o BPMN?
+### 1 - Vimos que o BPMN é a forma mais eficiente e padronizada de "representar graficamente uma sequência de ações para se atender um determinado objetivo, ou seja, um processo", assinale dentre as opções abaixo quais são os 3 principais benefícios de se utilizar o BPMN?
 
 __A__ - Divulgação do conteúdo do processo – Ferramenta de comunicação do que acontecerá ao ser executado o processo
 > O BPMN é um importante instrumento de comunicação que permite a visualização por diversas pessoas do passo a passo detalhado de um processo
@@ -19,7 +19,7 @@ __E__ - Fácil leitura de um processo - Permite ilustrar o entendimento de um de
 __F__ - Documentação de um processo – Registro em linguagem gráfica de um processo
 > O BPMN permite o registro de maneira padronizada, clara e concisa de um processo
 
-2 - Assinale dentre as opções abaixo aquela que representa a principal finalidade de uso da ferramenta Bizagi Modeler:
+### 2 - Assinale dentre as opções abaixo aquela que representa a principal finalidade de uso da ferramenta Bizagi Modeler:
 
 A - Serve para documentar uma reunião de identificação de todos os requisitos de um sistema
 
@@ -30,7 +30,7 @@ C - Automatizar processos de negócio.
 
 D - Representa uma forma de definir as funcionalidades de um sistema
 
-3 - Dentre as ferramentas citadas abaixo assinale aquela que não apresenta funcionalidades semelhantes a Bizagi Modeler para representação de modelos de processos usando BPMN.
+### 3 - Dentre as ferramentas citadas abaixo assinale aquela que não apresenta funcionalidades semelhantes a Bizagi Modeler para representação de modelos de processos usando BPMN.
 
 A - Sydle
 
@@ -45,7 +45,7 @@ E - Draw io
 
 ## Aula 2
 
-1 - Considerando que podemos entender uma “Atividade” como sendo uma ação que ocorre num determinado momento de um processo de negócio, assinale dentre os exemplos listados abaixo aquele que representa um exemplo de atividade.
+### 1 - Considerando que podemos entender uma “Atividade” como sendo uma ação que ocorre num determinado momento de um processo de negócio, assinale dentre os exemplos listados abaixo aquele que representa um exemplo de atividade.
 
 A - Acesso ao banco de dados estoque
 
@@ -56,7 +56,7 @@ C - Associação de um Pedido com um cliente
 __D__ - Cadastrar Pedido
 > O uso do verbo para representar a ação de cadastrar um pedido denota uma atividade usando BPMN
 
-2 - Considerando que podemos entender uma “Ligação” em BPMN serve para representar a conexão de uma sequência de ações, fluxo de mensagens, e/ou associar diferentes elementos de BPMN, assinale dentre os exemplos listados abaixo aquele que representa uma ligação.
+### 2 - Considerando que podemos entender uma “Ligação” em BPMN serve para representar a conexão de uma sequência de ações, fluxo de mensagens, e/ou associar diferentes elementos de BPMN, assinale dentre os exemplos listados abaixo aquele que representa uma ligação.
 
 A - Finalizar Pedido
 
@@ -67,7 +67,7 @@ C - Venda Agregada
 
 D - Consulta ao Estoque
 
-3 - Considerando que podemos entender um “Subprocesso” como um grupo de elementos de BPMN que podem ser representados de maneira agrupada (colapsada) sem perda de informação e entendimento do processo principal que esta sendo modelado, assinale dentre os exemplos listados abaixo aquele que representa um subprocesso.
+### 3 - Considerando que podemos entender um “Subprocesso” como um grupo de elementos de BPMN que podem ser representados de maneira agrupada (colapsada) sem perda de informação e entendimento do processo principal que esta sendo modelado, assinale dentre os exemplos listados abaixo aquele que representa um subprocesso.
 
 A - Apontar o caminho para a realização de uma Venda
 
@@ -80,7 +80,7 @@ __D__ - Aumento de Produtos em Estoque
 
 ## Aula 3
 
-1 - Dentro de BPMN o Elemento “Evento” serve para indicar alguma coisa que acontece no processo entre seu início e fim, com base nesta definição assinale dentre os exemplos listados abaixo aquele melhor representa um Evento.
+### 1 - Dentro de BPMN o Elemento “Evento” serve para indicar alguma coisa que acontece no processo entre seu início e fim, com base nesta definição assinale dentre os exemplos listados abaixo aquele melhor representa um Evento.
 
 A - Cadastrar Pedido
 
@@ -91,7 +91,7 @@ __C__ - Término de Finalizar Pedido
 
 D - Informar Vendedor
 
-2 - Dentro de BPMN o Elemento “Desvio” serve para controlar o fluxo do processo e pode marcar o início ou o fim de um conjunto de caminhos alternativos ou paralelos, com base nesta definição assinale dentre os exemplos listados abaixo aquele melhor representa um Desvio.
+### 2 - Dentro de BPMN o Elemento “Desvio” serve para controlar o fluxo do processo e pode marcar o início ou o fim de um conjunto de caminhos alternativos ou paralelos, com base nesta definição assinale dentre os exemplos listados abaixo aquele melhor representa um Desvio.
 
 __A__ - Confirmar ou não um pedido
 > A opção de confirmação ou não de um pedido em um processo indica um ponto demarcado pelo elemento “Desvio”, que ao ser acessado permite a visualização de possíveis caminhos na sequência de execução do processo
@@ -102,7 +102,7 @@ C - Compra Agregada
 
 D - Início do Pedido de Compra
 
-3 - A maioria dos especialistas em mapeamento de processos optam por representar em uma modelagem de processos os elementos “Eventos” e “Desvios” depois de identificar “Atividades, Ligações e Sub-Processos”, na sua opinião qual é principal finalidade de representarmos “Eventos” e “Desvios” neste 2º momento?
+### 3 - A maioria dos especialistas em mapeamento de processos optam por representar em uma modelagem de processos os elementos “Eventos” e “Desvios” depois de identificar “Atividades, Ligações e Sub-Processos”, na sua opinião qual é principal finalidade de representarmos “Eventos” e “Desvios” neste 2º momento?
 
 __A__ - Para indicar um ótimo momento para reflexão se o processo está de fato representando fielmente a realidade mapeada como requisito
 > Exatamente, além disso a partir deste momento visualizamos que os mesmos estão de fato, repercutindo coisas que acontecem no contexto do processo e influenciam e direcionam sua execução
