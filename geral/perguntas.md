@@ -143,3 +143,38 @@ __A__ - Produtividade e assertividade na elaboração do modelo físico mais a f
 B - Diminuição do tempo de validação final do processo com o dono do negócio
 
 C - Facilidade no uso de uma linguagem de programação
+
+## Aula 5
+
+### 1 - Com base no modelo “TO BE” que refinamos na vídeo-aula 5 usando a ferramenta Bizagi, vá ao menu – Ferramentas-> e clique em “contagem do Elemento” para quantificarmos os elementos de BPMN que o Bizagi faz automaticamente (Eventos, Desvios”Gateways”, Sub-processos e Atividades “Tarefas”) e informe dentre as opções abaixo, qual representa o total de presença de cada um destes elementos que foram identificados exclusivamente no processo "Expandir Vendas"?
+
+A - Eventos = 8 / Gateways = 7 / Sub-processos = 3 / Tarefas = 6
+
+B - Eventos = 20 / Gateways = 5 / Sub-processos = 1 / Tarefas = 7
+
+__C__ - Eventos = 7 / Gateways = 4 / Sub-processos = 1 / Tarefas = 4
+> Parabéns quantidades batendo. Observe o quanto usamos de elementos de BPMN para resolver um problema.
+
+D - Eventos = 2 / Gateways = 10 / Sub-processos = 2 / Tarefas = 12
+
+### 2 - Com base no modelo “TO BE” que refinamos na video-aula 5 usando a ferramenta Bizagi, vá ao menu – Ferramentas-> e clique em “contagem do Elemento” para quantificarmos os elementos de BPMN que o Bizagi faz automaticamente (Eventos, Desvios ”Gateways”, Sub-processos e Atividades “Tarefas”) e informe dentre as opções abaixo, qual representa o total de presença de cada um destes elementos que foram identificados exclusivamente do sub-processo "Vendas Agregadas"?
+
+A - Eventos = 2 / Gateways = 1 / Sub-processos = 2 / Atividades = 1
+
+__B__ - Eventos = 5 / Gateways = 0 / Sub-processos = 0 / Atividades = 2
+> Parabéns quantidades batendo. Observe o quanto usamos de elementos de BPMN para resolver um problema.
+
+C - Eventos = 0 / Gateways = 0 / Sub-processos = 3 / Atividades = 2
+
+D - Eventos = 3 / Gateways = 3 / Sub-processos = 2 / Atividades = 1
+
+### 3 - Você deve ter percebido nos dois exercícios anteriores que a ferramenta Bizagi Modeler não apresenta as quantidades dos Elementos (Ligações, Artefatos e Swimlanes), mas tenho certeza de que você é capaz de contar sem a ajuda da Bizagi! Então mãos a obra: usando o mesmo processo "TO BE" elaborado nesta videoaula 5, escolha a opção com as quantidades identificadas:
+
+__A__ - Totais identificados: Processo "Expandir Vendas" Ligações = 20 / Artefatos = 2 / Swimlanes = 1 Sub-Processo Ligações = 8 / Artefatos = 0 / Swimlanes = 1
+> Parabéns quantidades batendo. Observe o quanto usamos de elementos de BPMN para resolver um problema. Como vimos neste exercício estamos lidando em nosso modelo com o elemento normalmente mais abundante (Ligações) e os 2 elementos menos usados (Artefatos, Swimlanes)
+
+B - Totais identificados: Processo "Expandir Vendas" Ligações = 3 / Artefatos = 3 / Swimlanes = 1 Sub-Processo Ligações = 1 / Artefatos = 1 / Swimlanes = 4
+
+C - Totais identificados: Processo "Expandir Vendas" Ligações = 8 / Artefatos = 4 / Swimlanes = 5 Sub-Processo Ligações = 2 / Artefatos = 2 / Swimlanes = 5
+
+D - Totais identificados: Processo "Expandir Vendas" Ligações = 6 / Artefatos = 3 / Swimlanes = 3 Sub-Processo Ligações = 2 / Artefatos = 2 / Swimlanes = 5
